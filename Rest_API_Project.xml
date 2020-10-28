@@ -328,8 +328,8 @@
     <con:basicAuthEntry>
       <con:name>Test</con:name>
       <con:type>Basic</con:type>
-      <con:username>guruprasadsawant@gmail.com</con:username>
-      <con:password>CH3CHO@c2h5oh</con:password>
+      <con:username>Subramanyahp23@gmail.com</con:username>
+      <con:password></con:password>
       <con:preemptive>true</con:preemptive>
     </con:basicAuthEntry>
   </con:authRepository>
